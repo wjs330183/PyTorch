@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d14d7cc8-406d-4b8d-8dcb-b07eed0ee0c5" name="Changes" comment="create" />
+    <list default="true" id="d14d7cc8-406d-4b8d-8dcb-b07eed0ee0c5" name="Changes" comment="create">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionMNIST/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionMNIST/getDataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FashionMNIST/mini_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/LRtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/creatDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/initModelParam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/readDataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegression/trainModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/SGD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/creatDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/defineModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/gradf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/initModelParam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/lossFuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/readDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/trainModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softmax/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +35,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29jmJmBNkfxnUHxW790BaWdBoqa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +55,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "http.proxy"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653634800242</updated>
-      <workItem from="1653634801503" duration="405000" />
+      <workItem from="1653634801503" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1653634971706</created>
@@ -46,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653634971706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create">
+      <created>1653635229670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653635229670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
