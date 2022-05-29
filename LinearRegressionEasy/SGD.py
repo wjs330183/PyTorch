@@ -1,6 +1,6 @@
 import torch.optim as optim
 
-from PyTorch.LinearRegressionEasy.defineModel import net
+from LinearRegressionEasy.defineModelEasy import net
 
 optimizer = optim.SGD(net.parameters(), lr=0.03)
 print(optimizer)

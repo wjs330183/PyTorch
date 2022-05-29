@@ -1,8 +1,8 @@
-from PyTorch.LinearRegressionEasy.SGD import optimizer
-from PyTorch.LinearRegressionEasy.creatDataset import true_w, true_b
-from PyTorch.LinearRegressionEasy.defineModel import net
-from PyTorch.LinearRegressionEasy.lossFuction import loss
-from PyTorch.LinearRegressionEasy.readDataset import data_iter
+from LinearRegressionEasy.SGD import optimizer
+from LinearRegressionEasy.creatDatasetEasy import true_w, true_b
+from LinearRegressionEasy.defineModelEasy import net
+from LinearRegressionEasy.lossFuctionEasy import loss
+from LinearRegressionEasy.readDatasetEasy import data_iter
 
 num_epochs = 3
 for epoch in range(1, num_epochs + 1):

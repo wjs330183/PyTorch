@@ -5,33 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d7cc8-406d-4b8d-8dcb-b07eed0ee0c5" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FashionMNIST/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FashionMNIST/getDataSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FashionMNIST/mini_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/LRtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/creatDataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/initModelParam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/readDataSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression/trainModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/SGD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/creatDataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/defineModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/gradf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/initModelParam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/lossFuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/readDataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegressionEasy/trainModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/softmax/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLP/readAndTrainMPLDateset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolynomialFunctionFittingExperiment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolynomialFunctionFittingExperiment/createPFFEDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolynomialFunctionFittingExperiment/define_train_test_PFFE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/calculate_classification_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/crossEntropyLoss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/defineAndInitModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/defineModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/getAndReadDataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/initModelParam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/lossFuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/softmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/softmaxPrediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/softmaxSGD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softmax/trainModelSoftmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activationFunction/Relu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activationFunction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activationFunction/sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activationFunction/tanh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FashionMNIST/getDataSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/FashionMNIST/getDataSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FashionMNIST/mini_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/FashionMNIST/mini_batch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/SGD.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/SGD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/creatDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/creatDatasetEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/defineModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/defineModelEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/gradf.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/gradfEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/initModelParam.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/initModelParamEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/lossFuction.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/lossFuctionEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/readDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/readDatasetEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearRegressionEasy/trainModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearRegressionEasy/trainModelEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softmax/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLP/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,14 +67,534 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/json/PycharmProjects/PyTorch",
+    "last_opened_file_path": "/Users/json/PycharmProjects/PyTorch/Softmax",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "http.proxy"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Softmax" />
+      <recent name="$PROJECT_DIR$/softmax" />
+      <recent name="$PROJECT_DIR$/FashionMNIST" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/softmax" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.define_train_test_PFFE">
+    <configuration name="Relu" type="PythonConfigurationType" factoryName="Python" folderName="activationFunction">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/activationFunction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/activationFunction/Relu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calculate_classification_accuracy" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softmax/calculate_classification_accuracy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="creatDatasetEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/creatDatasetEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createPFFEDataset" type="PythonConfigurationType" factoryName="Python" folderName="PolynomialFunctionFittingExperiment" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PolynomialFunctionFittingExperiment" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolynomialFunctionFittingExperiment/createPFFEDataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defineMLPModel" type="PythonConfigurationType" factoryName="Python" folderName="MLP" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP/defineMLPModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defineModel" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softmax/defineModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defineModelEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/defineModelEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="define_train_test_PFFE" type="PythonConfigurationType" factoryName="Python" folderName="PolynomialFunctionFittingExperiment" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PolynomialFunctionFittingExperiment" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolynomialFunctionFittingExperiment/define_train_test_PFFE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getAndReadDataSet" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softmax/getAndReadDataSet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getDataSet" type="PythonConfigurationType" factoryName="Python" folderName="FashionMNIST" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FashionMNIST" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FashionMNIST/getDataSet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="initModelParamEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/initModelParamEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lossFuction" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softmax/lossFuction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lossFuctionEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/lossFuctionEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mini_batch" type="PythonConfigurationType" factoryName="Python" folderName="FashionMNIST" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FashionMNIST" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FashionMNIST/mini_batch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readAndTrainMPLDateset" type="PythonConfigurationType" factoryName="Python" folderName="MLP" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLP" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLP/readAndTrainMPLDateset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readDatasetEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/readDatasetEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sigmoid" type="PythonConfigurationType" factoryName="Python" folderName="activationFunction" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/activationFunction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/activationFunction/sigmoid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="softmax" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softmax/softmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="softmaxPrediction" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Softmax/softmaxPrediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tanh" type="PythonConfigurationType" factoryName="Python" folderName="activationFunction" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/activationFunction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/activationFunction/tanh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainModelEasy" type="PythonConfigurationType" factoryName="Python" folderName="LinearRegressionEasy" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearRegressionEasy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearRegressionEasy/trainModelEasy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainModelSoftmax" type="PythonConfigurationType" factoryName="Python" folderName="softmax" nameIsGenerated="true">
+      <module name="PyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/PyTorch/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Softmax" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Softmax/trainModelSoftmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.trainModelSoftmax" />
+      <item itemvalue="Python.softmaxPrediction" />
+      <item itemvalue="Python.lossFuction" />
+      <item itemvalue="Python.calculate_classification_accuracy" />
+      <item itemvalue="Python.getAndReadDataSet" />
+      <item itemvalue="Python.softmax" />
+      <item itemvalue="Python.defineModel" />
+      <item itemvalue="Python.getDataSet" />
+      <item itemvalue="Python.mini_batch" />
+      <item itemvalue="Python.lossFuctionEasy" />
+      <item itemvalue="Python.readDatasetEasy" />
+      <item itemvalue="Python.initModelParamEasy" />
+      <item itemvalue="Python.defineModelEasy" />
+      <item itemvalue="Python.trainModelEasy" />
+      <item itemvalue="Python.creatDatasetEasy" />
+      <item itemvalue="Python.Relu" />
+      <item itemvalue="Python.sigmoid" />
+      <item itemvalue="Python.tanh" />
+      <item itemvalue="Python.readAndTrainMPLDateset" />
+      <item itemvalue="Python.defineMLPModel" />
+      <item itemvalue="Python.createPFFEDataset" />
+      <item itemvalue="Python.define_train_test_PFFE" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +603,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653634800242</updated>
-      <workItem from="1653634801503" duration="488000" />
+      <workItem from="1653634801503" duration="1283000" />
+      <workItem from="1653636112583" duration="13207000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1653634971706</created>
@@ -82,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653635229670</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create">
+      <created>1653635316086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653635316086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +647,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
     <option name="LAST_COMMIT_MESSAGE" value="create" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyTorch$getAndReadDataSet.coverage" NAME="softmax Coverage Results" MODIFIED="1653651500613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/softmax" />
+    <SUITE FILE_PATH="coverage/PyTorch$tanh.coverage" NAME="tanh Coverage Results" MODIFIED="1653661091919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/activationFunction" />
+    <SUITE FILE_PATH="coverage/PyTorch$mini_batch.coverage" NAME="mini_batch Coverage Results" MODIFIED="1653640613998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FashionMNIST" />
+    <SUITE FILE_PATH="coverage/PyTorch$trainModelEasy.coverage" NAME="trainModelEasy Coverage Results" MODIFIED="1653653690780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinearRegressionEasy" />
+    <SUITE FILE_PATH="coverage/PyTorch$define_train_test_PFFE.coverage" NAME="define_train_test_PFFE Coverage Results" MODIFIED="1653662536528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PolynomialFunctionFittingExperiment" />
+    <SUITE FILE_PATH="coverage/PyTorch$createPFFEDataset.coverage" NAME="createPFFEDataset Coverage Results" MODIFIED="1653662267397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PolynomialFunctionFittingExperiment" />
+    <SUITE FILE_PATH="coverage/PyTorch$lossFuction.coverage" NAME="lossFuction Coverage Results" MODIFIED="1653640136380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/softmax" />
+    <SUITE FILE_PATH="coverage/PyTorch$softmaxPrediction.coverage" NAME="softmaxPrediction Coverage Results" MODIFIED="1653657087879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Softmax" />
+    <SUITE FILE_PATH="coverage/PyTorch$Relu.coverage" NAME="Relu Coverage Results" MODIFIED="1653659225163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReLU" />
+    <SUITE FILE_PATH="coverage/PyTorch$creatDatasetEasy.coverage" NAME="creatDatasetEasy Coverage Results" MODIFIED="1653652921273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinearRegressionEasy" />
+    <SUITE FILE_PATH="coverage/PyTorch$defineModelEasy.coverage" NAME="defineModelEasy Coverage Results" MODIFIED="1653652974917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinearRegressionEasy" />
+    <SUITE FILE_PATH="coverage/PyTorch$readAndTrainMPLDateset.coverage" NAME="readAndTrainMPLDateset Coverage Results" MODIFIED="1653662063853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLP" />
+    <SUITE FILE_PATH="coverage/PyTorch$initModelParamEasy.coverage" NAME="initModelParamEasy Coverage Results" MODIFIED="1653653577212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinearRegressionEasy" />
+    <SUITE FILE_PATH="coverage/PyTorch$getDataSet.coverage" NAME="getDataSet Coverage Results" MODIFIED="1653640429450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FashionMNIST" />
+    <SUITE FILE_PATH="coverage/PyTorch$readDatasetEasy.coverage" NAME="readDatasetEasy Coverage Results" MODIFIED="1653653341765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinearRegressionEasy" />
+    <SUITE FILE_PATH="coverage/PyTorch$sigmoid.coverage" NAME="sigmoid Coverage Results" MODIFIED="1653659638831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/activationFunction" />
+    <SUITE FILE_PATH="coverage/PyTorch$defineMLPModel.coverage" NAME="defineMLPModel Coverage Results" MODIFIED="1653662055623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLP" />
+    <SUITE FILE_PATH="coverage/PyTorch$defineModel.coverage" NAME="defineModel Coverage Results" MODIFIED="1653640105979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/softmax" />
+    <SUITE FILE_PATH="coverage/PyTorch$calculate_classification_accuracy.coverage" NAME="calculate_classification_accuracy Coverage Results" MODIFIED="1653655660191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/softmax" />
+    <SUITE FILE_PATH="coverage/PyTorch$trainModelSoftmax.coverage" NAME="trainModelSoftmax Coverage Results" MODIFIED="1653657795723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Softmax" />
   </component>
 </project>
